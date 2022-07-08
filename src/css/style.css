@@ -144,4 +144,5 @@ main {
 .nft-card .creator .text .name-link {
   color: #ffffff;
   transition: color 0.2s;
+  background-color: #000000;
 }
